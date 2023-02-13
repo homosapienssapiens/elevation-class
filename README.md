@@ -2,7 +2,7 @@
 Class for planetary elevation extraction using CopernicusDEM API.
 
 # Methods
-## extrawraw(list: tiles)
+## extractraw(list: tiles)
 Extract a list of objects who contain the raw data of a given list of tiles. The list of tiles sholud be a list of lists containing latitude and longitude respectively.
 
 ### Parameters
